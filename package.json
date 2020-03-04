@@ -1,0 +1,19 @@
+{
+  "name": "historical-events",
+  "version": "1.0.0",
+  "description": "mini apps 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSong1122/historical-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewSong1122/historical-events/issues"
+  },
+  "homepage": "https://github.com/AndrewSong1122/historical-events#readme"
+}
